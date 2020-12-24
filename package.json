@@ -1,5 +1,5 @@
 {
-    "name": "export-to-csv",
+    "name": "export-to-csv-no-space-title",
     "version": "0.2.1",
     "description": "Easily create CSV data from json collection",
     "repository": {
