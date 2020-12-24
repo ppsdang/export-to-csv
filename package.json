@@ -1,10 +1,10 @@
 {
     "name": "export-to-csv-no-space-title",
-    "version": "0.2.1",
+    "version": "0.0.1",
     "description": "Easily create CSV data from json collection",
     "repository": {
         "type": "git",
-        "url": "https://github.com/alexcaza/export-to-csv.git"
+        "url": "https://github.com/ppsdang/export-to-csv.git"
     },
     "scripts": {
         "dev": "tsc --watch",
@@ -25,15 +25,15 @@
         "angular4",
         "angular5"
     ],
-    "author": "alexcaza",
-    "email": "alex@alexcaza.com",
+    "author": "Pawanpreet Singh",
+    "email": "ppsdang123@gmail.com",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/alexcaza/export-to-csv/issues"
+        "url": "https://github.com/ppsdang/export-to-csv/issues"
     },
     "main": "./build/index.js",
     "types": "./build/export-to-csv.d.ts",
-    "homepage": "https://github.com/alexcaza/export-to-csv#readme",
+    "homepage": "https://github.com/ppsdang/export-to-csv#readme",
     "devDependencies": {
         "@types/jasmine": "^2.5.46",
         "es6-shim": "^0.35.3",
