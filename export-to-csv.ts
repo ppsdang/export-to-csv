@@ -88,7 +88,7 @@ export class ExportToCsv {
         }
 
         if (this._options.showTitle) {
-            this._csv += this._options.title + '\r\n\n';
+            this._csv += this._options.title + '\r\n';
         }
 
         this._getHeaders();
